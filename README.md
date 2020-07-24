@@ -7,5 +7,7 @@
     Barzy picked user story #2
     Mohammed picked user story #3
     Phu picked user story #5
+    Anastasiia picked user story #6
     Marina picked user story #9
     Phu picked user story #10
+    
